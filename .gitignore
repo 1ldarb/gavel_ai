@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.DS_Store
+*.json
+*.pickle
+output/
+downloads/
+*.log
+.env
